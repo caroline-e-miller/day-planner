@@ -19,7 +19,7 @@ function planDay() {
     // console.log(presentHour);
 
     $('.container .hour').each(function () {
-        if (clockHour === currentHour) {
+        if (clockHour === currentTime) {
             $(this).css('.present');
         } else if (clockHour < presentHour) {
             $(this).css('.past');
@@ -56,7 +56,6 @@ $(".saveBtn").click(function () {
     //     console.log(specifyPlans);
     // })
 
-
     var setPlans = plans.val();
     console.log(setPlans)
     // event.preventDefault();
@@ -71,6 +70,6 @@ $(".saveBtn").click(function () {
 
 function renderPlans() {
     var storedItem = localStorage.getItem("plans");
-    plans.val() = storedItem;
+    setPlans = storedItem;
 }
 renderPlans();
