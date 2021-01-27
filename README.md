@@ -7,3 +7,13 @@ This day planner includes time-sensitive fratures that adapt based upon the day 
 # Usage
 
 Users will be able to make and edit notes with this fun and interactive planner, which color codes the past, present, and future hours as they evolve throughout the day. 
+
+# Deployed link
+
+https://caroline-e-miller.github.io/day-planner/
+
+# Screenrecording demo
+
+
+https://user-images.githubusercontent.com/70964778/106060446-b5307480-60b9-11eb-8135-568e0f2699a4.mov
+
