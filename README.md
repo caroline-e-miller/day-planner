@@ -12,8 +12,9 @@ Users will be able to make and edit notes with this fun and interactive planner,
 
 https://caroline-e-miller.github.io/day-planner/
 
-# Screenrecording demo
+# Screenshots and recording
 
+<img width="1215" alt="Screen Shot 2021-01-27 at 10 07 56 AM" src="https://user-images.githubusercontent.com/70964778/106060718-050f3b80-60ba-11eb-8e74-700bd950ae07.png">
 
 https://user-images.githubusercontent.com/70964778/106060446-b5307480-60b9-11eb-8135-568e0f2699a4.mov
 
